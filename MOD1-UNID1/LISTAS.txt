@@ -1,3 +1,5 @@
 PAN
 ACEITE
 GALLETAS
+harina
+grasa
