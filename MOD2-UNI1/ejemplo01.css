@@ -1,0 +1,48 @@
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+
+.caja {
+
+    width: 300px;
+    height: 300px;
+    /* background-color: yellow; */
+    padding: 20px;
+    box-sizing: border-box;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 0.9836309523809523) 0%, rgba(41, 80, 162, 0.9864320728291317) 0%, rgba(0, 125, 255, 0.8575805322128851) 15%);
+    margin-bottom: 50px;
+
+}
+
+.caja2 {
+    <i class="fa-solid fa-house"></i>
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    padding: 20px;
+    /* border: 2px solid black; */
+    /* border-radius 0 40px; */
+    border-radius: 0px 200px 200px 0px;
+    border: 8px dotted #ff6550;
+    box-shadow: 20px 40px 5px black;
+
+
+
+
+}
+
+.texto {
+    background-color: orange;
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
